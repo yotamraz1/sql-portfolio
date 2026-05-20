@@ -61,12 +61,6 @@ See `notes/operational_context.md` for full context.
 
 ---
 
-## Screenshots
-
-*See `/screenshots` folder — dashboards, query outputs, monitoring screens.*
-
----
-
 ## Skills
 
 `GROUP BY` · `HAVING` · `CASE WHEN` · `NULLIF` · `EXTRACT EPOCH` · conditional aggregation · timestamp arithmetic · multi-metric aggregation · business-driven query design
